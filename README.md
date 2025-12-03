@@ -256,11 +256,9 @@ footer {
 
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c4cf7d9f-69bd-483e-8bda-31fbc177f550" />
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/11976dfc-f835-48fc-9e5f-252f7d0f7824" />
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/2d0c45b9-fabb-48ef-b47c-fb2532f75547" />
-<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/903c4219-3e80-4aa8-bf2f-52e87fbacb46" />
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d2488103-0bd0-4526-a741-821dbaa3447d" />
+"C:\Users\admin\Downloads\Gemini_Generated_Image_vulhaqvulhaqvulh.png"
+"C:\Users\admin\Downloads\Gemini_Generated_Image_5k0zd15k0zd15k0z.png"
+
 
 
 
