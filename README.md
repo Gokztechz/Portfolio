@@ -251,13 +251,17 @@ footer {
   border-radius: 50%;
   margin-top: 20px;
 }
-
 ```
 
 
 ## OUTPUT:
-"C:\Users\admin\Downloads\Gemini_Generated_Image_vulhaqvulhaqvulh.png"
-"C:\Users\admin\Downloads\Gemini_Generated_Image_5k0zd15k0zd15k0z.png"
+
+<img width="2013" height="1792" alt="Gemini_Generated_Image_vulhaqvulhaqvulh" src="https://github.com/user-attachments/assets/2067c020-1945-462e-a7cb-d2f0231ac23a" />
+
+
+
+
+
 
 
 
